@@ -1,0 +1,16 @@
+Package: fgpe
+Type: Package
+Title: The graphical projection estimator based on the partially
+        penalized regression
+Version: 1.0.0
+Date: 2025-01-17
+Author: Ni Zhao
+Maintainer: Ni Zhao <nzhao0926@mail.ustc.edu.cn>
+Description: The graphical projection estimator based on the partially penalized regression  and the false positive rates and the true positive rates based on the graphical projection estimator (GPE).
+License: GPL (>= 3.0)
+Encoding: UTF-8
+Depends: R (>= 4.4.2)
+Imports: glmnet, MASS, scalreg
+RoxygenNote: 7.1.1
+NeedsCompilation: no
+Packaged: 2025-01-17 11:02:49 UTC; ni
